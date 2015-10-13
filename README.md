@@ -32,10 +32,33 @@ Skills and Knowledges that may or may not be used.
 - [Machine Learning][ml-ng] by [Andrew Ng][ng]
 - [How to Use Git and GitHub][uda-git]
 - [Introduction to Computer Vision][uda-cv]
+- [抽象编程][sf-ab]
 
 ### Machine Learning and Data Mining
 
-TODO
+- [好东西论坛](http://memect.com/)
+  - [机器学习日报](http://ml.memect.com/)
+  - [大数据日报](http://bd.memect.com/)
+  - [Python日报](http://py.memect.com/)
+  - [爱可可老师今日推荐](http://me.memect.com/fly51fly/)
+- [Caffe](http://caffe.berkeleyvision.org/)
+  - CNN 框架
+  - 快速深度学习算法原型搭建与训练
+  - 提供 Python 与 Matlab 接口
+- Scientific Python
+  - [Numpy](http://www.numpy.org/) 基础科学计算库
+  - [Theano](http://deeplearning.net/software/theano/)
+    - ML && DL 基础计算库
+    - 快速算法原型搭建
+  - [Pandas](http://pandas.pydata.org/)
+    - 结构化数据清洗与处理
+    - 配合 [matplotlib](http://matplotlib.org/) 做数据可视化
+  - [Scrapy](http://scrapy.org/)
+    - 网络数据采集与清洗
+    - 结构化数据输出供后续应用
+  - [Anaconda](https://www.continuum.io/downloads)
+    - Python 科学计算集成发行版
+    - 包含众多 Python 科学计算相关的库
 
 ### Libraries
 
@@ -80,3 +103,4 @@ TODO
 [ubuntu]: http://www.ubuntu.org.cn/
 [vbox]: https://www.virtualbox.org/
 [vagrant]: https://www.virtualbox.org/
+[sf-ab]: http://open.163.com/special/opencourse/abstractions.html

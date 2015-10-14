@@ -36,6 +36,11 @@ Skills and Knowledges that may or may not be used.
 
 ### Machine Learning and Data Mining
 
+- [Yoshua Bengio 关于 DL 的书](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+  - 线性代数与概率论基础
+  - ML 理论基础
+  - DL 理论基础
+  - 前沿性模型分析
 - [好东西论坛](http://memect.com/)
   - [机器学习日报](http://ml.memect.com/)
   - [大数据日报](http://bd.memect.com/)
@@ -43,7 +48,7 @@ Skills and Knowledges that may or may not be used.
   - [爱可可老师今日推荐](http://me.memect.com/fly51fly/)
 - [Caffe](http://caffe.berkeleyvision.org/)
   - CNN 框架
-  - 快速深度学习算法原型搭建与训练
+  - 快速搭建深度学习算法原型并进行训练
   - 提供 Python 与 Matlab 接口
 - Scientific Python
   - [Numpy](http://www.numpy.org/) 基础科学计算库
@@ -79,8 +84,21 @@ Skills and Knowledges that may or may not be used.
 
 ### Linux
 
+- Linux 操作系统
+  - Linux 基本命令集使用
+  - 熟悉 Linux 文件系统, 用户权限管理, 网络配置
+  - 管理和使用 Linux 服务器
+  - 熟悉 Linux 包管理机制及其工具链
+  - 熟练运用 gcc 工具链进行源码编译
+  - Shell/Python 日常脚本编写
+  - C/C++ 跨平台代码编写
+  - 大规模数据处理与模型训练的运行环境
 - [Ubuntu][ubuntu]
   - 目前用户量最大的 Linux 发行版, 社区比较大, 资源比较多, 适合 Linux 入门
+- [CentOS][centos]
+  - 红帽开源代码的再编译
+  - 企业服务器用这个系统的比较多, 我们自己的服务器上也装了这个系统
+  - 软件源中的软件版本非常低, 大部分库与工具自己用 gcc 编译
 - [VirtualBox][vbox]
   - 开源免费的虚拟机运行平台
 - [Vagrant][vagrant]
@@ -104,3 +122,4 @@ Skills and Knowledges that may or may not be used.
 [vbox]: https://www.virtualbox.org/
 [vagrant]: https://www.virtualbox.org/
 [sf-ab]: http://open.163.com/special/opencourse/abstractions.html
+[centos]: https://www.centos.org/

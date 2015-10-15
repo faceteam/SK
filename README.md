@@ -34,6 +34,17 @@ Skills and Knowledges that may or may not be used.
 - [Introduction to Computer Vision][uda-cv]
 - [抽象编程][sf-ab]
 
+### C/C++
+
+- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+- [Google 开源项目风格指南中文版](http://zh-google-styleguide.readthedocs.org/en/latest/contents/)
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+
+### Python
+
+- [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
+- [awesome-python](https://github.com/vinta/awesome-python)
+
 ### Machine Learning and Data Mining
 
 - [Yoshua Bengio 关于 DL 的书](http://www.iro.umontreal.ca/~bengioy/dlbook/)

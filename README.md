@@ -135,9 +135,11 @@ Skills and Knowledges that may or may not be used.
 - [实时动态曲线描绘控件][动态曲线控件]
 - MFC 默认有内存泄露检测的功能, 每个文件可加入下面的代码，这个很赞。
   ```c++
+
   #ifdef _DEBUG
   #define new DEBUG_NEW
   #endif
+
   ```
 
 ### To Be Continued……

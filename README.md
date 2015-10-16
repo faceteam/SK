@@ -97,13 +97,14 @@ Skills and Knowledges that may or may not be used.
 
 - Linux 操作系统
   - Linux 基本命令集使用
-  - 熟悉 Linux 文件系统, 用户权限管理, 网络配置
+  - 熟悉 Linux 文件系统, 用户权限管理, 网络配置, 路由配置
   - 管理和使用 Linux 服务器
   - 熟悉 Linux 包管理机制及其工具链
   - 熟练运用 gcc 工具链进行源码编译
   - Shell/Python 日常脚本编写
   - C/C++ 跨平台代码编写
   - 大规模数据处理与模型训练的运行环境
+  - vim [快捷键工具可参考][vim]
 - [Ubuntu][ubuntu]
   - 目前用户量最大的 Linux 发行版, 社区比较大, 资源比较多, 适合 Linux 入门
 - [CentOS][centos]
@@ -115,6 +116,33 @@ Skills and Knowledges that may or may not be used.
 - [Vagrant][vagrant]
   - 虚拟机管理工具集
   - 方便统一和分发项目的 Linux 开发环境
+
+### Kinect
+
+- Microsoft 开发的3D体感设备，可捕捉彩色图像，深度信息，骨骼动作和面部器官状态
+- [官网API介绍][kinect官网API]
+- [论坛][Kinect论坛]
+- [博客一][kinect博客1]
+- [博客二][kinect博客2]
+
+
+### MFC
+
+- 以C++类的形式封装了Windows API，并且包含一个应用程序框架, 多用于界面
+- [windows 消息机制原理][消息机制]
+- 《windows 程序设计》
+- [MFC编程入门教程][鸡啄米]
+- [实时动态曲线描绘控件][动态曲线控件]
+- MFC 默认有内存泄露检测的功能, 每个文件可加入下面的代码，这个很赞。
+```c++
+
+#ifdef _DEBUG
+#define new DEBUG_NEW
+#endif
+
+```
+
+### To Be Continued……
 
 
 [coursera]: https://www.coursera.org/
@@ -134,3 +162,11 @@ Skills and Knowledges that may or may not be used.
 [vagrant]: https://www.virtualbox.org/
 [sf-ab]: http://open.163.com/special/opencourse/abstractions.html
 [centos]: https://www.centos.org/
+[鸡啄米]:http://www.jizhuomi.com/software/257.html
+[vim]:https://github.com/amix/vimrc
+[动态曲线控件]:http://blog.csdn.net/nuaazdh/article/details/7857223
+[消息机制]:http://winprog.org/tutorial/zh/start_cn.html
+[Kinect论坛]:http://guoming.me/kinect2
+[kinect官网API]:https://msdn.microsoft.com/en-us/library/dn799271.aspx?tduid=(7b855072b4348da13a3f83e9f9d2f339)(256380)(2459594)(TnL5HPStwNw-8JxCC.2UebmmOxAGOzCD4w)()
+[kinect博客1]:http://blog.csdn.net/dustpg/article/category/2408183/2
+[kinect博客2]:https://kheresy.wordpress.com/kinect-for-windows-v2-cpp-index/

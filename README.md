@@ -142,6 +142,18 @@ Skills and Knowledges that may or may not be used.
 
   ```
 
+  在含有以上代码的cpp文件中分配内存后假如没有删除，那么停止程序的时候，VisualStudio的Output窗口就会显示如下的信息了：
+  ```c++
+
+  Detected memory leaks!
+  Dumping objects ->
+  d:\code\mfctest\mfctest.cpp(80) : {157} normal block at 0x003AF170, 4 bytes long.
+   Data: < > 00 00 00 00
+  Object dump complete.
+
+  ```
+  在Output窗口双击粗体字那一行，那么IDE就会打开该文件，定位到该行，很容易看出是哪出现了内存泄露。
+
 ### To Be Continued……
 
 

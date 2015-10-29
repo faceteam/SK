@@ -45,6 +45,33 @@ Skills and Knowledges that may or may not be used.
 - [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 - [awesome-python](https://github.com/vinta/awesome-python)
 
+### Regular Expression
+
+- 正则表达式
+- **文本处理与信息提取**
+- 各种编程语言自身的实现
+
+### Recommended Tools
+
+- 操作系统平台
+  - Windows
+  - Linux
+  - Unix
+- 集成开发环境
+  - [Visual Studio][vs]
+  - [Eclipse][eclipse]
+  - [Code Blocks][codeblocks]
+  - [PyCharm][pycharm]
+- 文本编辑器
+  - [Sublime Text][sublime]
+  - [Notepad++][notepad++]
+- 终端文本编辑器
+  - [Vim][vim]
+  - [Emacs][emacs]
+- 科学计算集成环境
+  - [Spyder][spyder]
+  - [Matlab][matlab]
+
 ### Machine Learning and Data Mining
 
 - [Yoshua Bengio 关于 DL 的书](http://www.iro.umontreal.ca/~bengioy/dlbook/)
@@ -183,4 +210,17 @@ Skills and Knowledges that may or may not be used.
 [kinect官网API]:https://msdn.microsoft.com/en-us/library/dn799271.aspx?tduid=(7b855072b4348da13a3f83e9f9d2f339)(256380)(2459594)(TnL5HPStwNw-8JxCC.2UebmmOxAGOzCD4w)()
 [kinect博客1]:http://blog.csdn.net/dustpg/article/category/2408183/2
 [kinect博客2]:https://kheresy.wordpress.com/kinect-for-windows-v2-cpp-index/
+<<<<<<< HEAD
 [dl]:https://github.com/ty4z2008/Qix/blob/master/dl.md
+=======
+[spyder]: https://github.com/spyder-ide/spyder
+[pycharm]: https://www.jetbrains.com/pycharm/
+[matlab]: http://cn.mathworks.com/products/matlab/
+[vim]: http://www.vim.org/
+[emacs]: https://www.gnu.org/software/emacs/
+[sublime]: http://www.sublimetext.com/
+[notepad++]: https://notepad-plus-plus.org/
+[vs]: https://www.visualstudio.com/
+[codeblocks]: http://www.codeblocks.org/
+[eclipse]: https://eclipse.org/
+>>>>>>> 19e47e24b455dc74b94eda3d964303a3adafecac

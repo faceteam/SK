@@ -210,9 +210,7 @@ Skills and Knowledges that may or may not be used.
 [kinect官网API]:https://msdn.microsoft.com/en-us/library/dn799271.aspx?tduid=(7b855072b4348da13a3f83e9f9d2f339)(256380)(2459594)(TnL5HPStwNw-8JxCC.2UebmmOxAGOzCD4w)()
 [kinect博客1]:http://blog.csdn.net/dustpg/article/category/2408183/2
 [kinect博客2]:https://kheresy.wordpress.com/kinect-for-windows-v2-cpp-index/
-<<<<<<< HEAD
 [dl]:https://github.com/ty4z2008/Qix/blob/master/dl.md
-=======
 [spyder]: https://github.com/spyder-ide/spyder
 [pycharm]: https://www.jetbrains.com/pycharm/
 [matlab]: http://cn.mathworks.com/products/matlab/
@@ -223,4 +221,3 @@ Skills and Knowledges that may or may not be used.
 [vs]: https://www.visualstudio.com/
 [codeblocks]: http://www.codeblocks.org/
 [eclipse]: https://eclipse.org/
->>>>>>> 19e47e24b455dc74b94eda3d964303a3adafecac

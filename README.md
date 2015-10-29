@@ -75,6 +75,7 @@ Skills and Knowledges that may or may not be used.
   - [Anaconda](https://www.continuum.io/downloads)
     - Python 科学计算集成发行版
     - 包含众多 Python 科学计算相关的库
+- awesome [dl][dl] list in github
 
 ### Libraries
 
@@ -182,3 +183,4 @@ Skills and Knowledges that may or may not be used.
 [kinect官网API]:https://msdn.microsoft.com/en-us/library/dn799271.aspx?tduid=(7b855072b4348da13a3f83e9f9d2f339)(256380)(2459594)(TnL5HPStwNw-8JxCC.2UebmmOxAGOzCD4w)()
 [kinect博客1]:http://blog.csdn.net/dustpg/article/category/2408183/2
 [kinect博客2]:https://kheresy.wordpress.com/kinect-for-windows-v2-cpp-index/
+[dl]:https://github.com/ty4z2008/Qix/blob/master/dl.md

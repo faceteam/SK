@@ -39,6 +39,9 @@ Skills and Knowledges that may or may not be used.
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
 - [Google 开源项目风格指南中文版](http://zh-google-styleguide.readthedocs.org/en/latest/contents/)
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+- 在没有编译环境限制的条件下，建议使用 C++11/14 新特征
+- 了解 VC/GCC 等编译器的编译行为，对于 GCC 包括但不限于 -I -L -l -D 等选项，不要只会在 IDE 中点按钮
+- 熟悉 Linux 下源码编译流程及相关工具集
 
 ### Python
 
@@ -48,7 +51,7 @@ Skills and Knowledges that may or may not be used.
 ### Regular Expression
 
 - 正则表达式
-- **文本处理与信息提取**
+- 文本处理与信息提取
 - 各种编程语言自身的实现
 
 ### Recommended Tools
@@ -153,6 +156,9 @@ Skills and Knowledges that may or may not be used.
 - [博客一][kinect博客1]
 - [博客二][kinect博客2]
 
+### 3D Vision
+
+To be added
 
 ### MFC
 

@@ -154,11 +154,11 @@ Skills and Knowledges that may or may not be used.
 - [官网API介绍][kinect官网API]
 - [论坛][Kinect论坛]
 - Kinect技术博客
-  - [博主dustpg系列Kinect2.0开发文章][kinect博客1]
-  - [博主heresy关于Kinect1.0和2.0系列开发文章][kinect博客2]
-  - [博主小明整理的Kinect学习资源博客][小明博客]
-  - [博主yangecnu关于Kinect1.0 sdk详细介绍][寒江独钓博客]
-- [Kinect2.0官方教学视频][kinect官方教学视频]
+  - [博主 dustpg 系列 Kinect2.0 开发文章][kinect博客1]
+  - [博主 heresy 关于 Kinect1.0 和 2.0 系列开发文章][kinect博客2]
+  - [博主小明整理的 Kinect 学习资源博客][小明博客]
+  - [博主 yangecnu 关于 Kinect1.0 sdk 详细介绍][寒江独钓博客]
+- [Kinect2.0 官方教学视频][kinect官方教学视频]
 
 ### 3D Vision
 

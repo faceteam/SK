@@ -156,8 +156,8 @@ Skills and Knowledges that may or may not be used.
 - Kinect技术博客
   - [博主dustpg系列Kinect2.0开发文章][kinect博客1]
   - [博主heresy关于Kinect1.0和2.0系列开发文章][kinect博客2]
-  - [博主小明整理的Kinect学习资源博客][http://guoming.me/kinect2]
-  - [博主yangecnu关于Kinect1.0 sdk详细介绍][http://www.cnblogs.com/yangecnu/category/373950.html]
+  - [博主小明整理的Kinect学习资源博客][小明博客]
+  - [博主yangecnu关于Kinect1.0 sdk详细介绍][寒江独钓博客]
 - [Kinect2.0官方教学视频][kinect官方教学视频]
 
 ### 3D Vision
@@ -220,6 +220,8 @@ To be added
 [kinect官网API]:https://msdn.microsoft.com/en-us/library/dn799271.aspx?tduid=(7b855072b4348da13a3f83e9f9d2f339)(256380)(2459594)(TnL5HPStwNw-8JxCC.2UebmmOxAGOzCD4w)()
 [kinect博客1]:http://blog.csdn.net/dustpg/article/category/2408183/2
 [kinect博客2]:https://kheresy.wordpress.com/kinect-for-windows-v2-cpp-index/
+[小明博客]:http://guoming.me/kinect2
+[寒江独钓博客]:http://www.cnblogs.com/yangecnu/category/373950.html
 [Kinect官方教学视频]:https://mva.microsoft.com/zh-cn/training-courses/-kinect-for-windows-v2--8743?l=n8ArR1V1_4904984382
 [dl]:https://github.com/ty4z2008/Qix/blob/master/dl.md
 [spyder]: https://github.com/spyder-ide/spyder

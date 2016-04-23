@@ -30,6 +30,8 @@ Skills and Knowledges that may or may not be used.
 - [Edx][edx], 需翻墙
 - [网易公开课][open-163]
 - [Machine Learning][ml-ng] by [Andrew Ng][ng]
+- [機器學習基石][ntumlone] by 台大
+- [機器學習技法][ntumltwo] by 台大
 - [How to Use Git and GitHub][uda-git]
 - [Introduction to Computer Vision][uda-cv]
 - [抽象编程][sf-ab]
@@ -234,3 +236,5 @@ To be added
 [vs]: https://www.visualstudio.com/
 [codeblocks]: http://www.codeblocks.org/
 [eclipse]: https://eclipse.org/
+[ntumlone]: https://www.coursera.org/course/ntumlone
+[ntumltwo]: https://www.coursera.org/course/ntumltwo

@@ -29,6 +29,7 @@ Skills and Knowledges that may or may not be used.
 - [Udacity][udacity], 需翻墙
 - [Edx][edx], 需翻墙
 - [网易公开课][open-163]
+- [CS231n][CS231n] by Stanford
 - [Machine Learning][ml-ng] by [Andrew Ng][ng]
 - [機器學習基石][ntumlone] by 台大
 - [機器學習技法][ntumltwo] by 台大
@@ -93,6 +94,7 @@ Skills and Knowledges that may or may not be used.
   - CNN 框架
   - 快速搭建深度学习算法原型并进行训练
   - 提供 Python 与 Matlab 接口
+- [Torch7](http://torch.ch/)
 - Scientific Python
   - [Numpy](http://www.numpy.org/) 基础科学计算库
   - [Theano](http://deeplearning.net/software/theano/)
@@ -238,3 +240,4 @@ To be added
 [eclipse]: https://eclipse.org/
 [ntumlone]: https://www.coursera.org/course/ntumlone
 [ntumltwo]: https://www.coursera.org/course/ntumltwo
+[CS231n]: https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG

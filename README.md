@@ -33,6 +33,7 @@ Skills and Knowledges that may or may not be used.
 - [Machine Learning][ml-ng] by [Andrew Ng][ng]
 - [機器學習基石][ntumlone] by 台大
 - [機器學習技法][ntumltwo] by 台大
+- [Deep Learning][GoogleDL] by Google
 - [How to Use Git and GitHub][uda-git]
 - [Introduction to Computer Vision][uda-cv]
 - [抽象编程][sf-ab]
@@ -241,3 +242,4 @@ To be added
 [ntumlone]: https://www.coursera.org/course/ntumlone
 [ntumltwo]: https://www.coursera.org/course/ntumltwo
 [CS231n]: https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG
+[GoogleDL]: https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118150923
